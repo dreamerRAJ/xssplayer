@@ -1,0 +1,6 @@
+{
+  "id": "malicious-panel",
+  "type": "panel",
+  "name": "Exploit",
+  "executable": "module.js"
+}
