@@ -1,6 +1,13 @@
 {
-  "id": "malicious-panel",
   "type": "panel",
-  "name": "Exploit",
+  "name": "XSS-POC",
+  "id": "attacker-xss-panel",
+  "info": {
+    "description": "POC for CVE-2025-4123",
+    "author": {
+      "name": "Security Researcher"
+    },
+    "version": "1.0.0"
+  },
   "executable": "module.js"
 }
